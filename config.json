@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorfpdate",
+        "uuid": 15159796,
+        "checksum": "37om7n"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
